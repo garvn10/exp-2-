@@ -65,7 +65,14 @@ int main()
 }
 ```
 
-![image](https://github.com/user-attachments/assets/bdbc6db8-a5dd-418a-9159-055133e9beb7)
+Output 1:
+![image](https://github.com/user-attachments/assets/ac668922-8829-463b-a205-0058032977ba)
+
+Output 2:
+![image](https://github.com/user-attachments/assets/852e2034-b066-437c-ad65-220e2c28d363)
+
+Output 3:
+![image](https://github.com/user-attachments/assets/6a6230fb-b327-4135-832c-5e01070477cb)
 
 
 Conclusion:
